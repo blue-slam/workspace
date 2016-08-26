@@ -1,0 +1,2 @@
+# workspace
+Base project workspace
